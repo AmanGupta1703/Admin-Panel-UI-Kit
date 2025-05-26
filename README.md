@@ -25,7 +25,7 @@ A modern, responsive admin panel built with **React**, **TypeScript**, **Vite**,
 - 📦 Modular React components (Sidebar, Chat, Details)
 - 🎨 Styled with Tailwind CSS and Inter font
 - 🧩 TypeScript for type safety
-- 🗂️ Organized folder structure for scalability
+- 🗂️ Organised folder structure for scalability
 - 🧹 ESLint for code quality
 
 ---
@@ -64,7 +64,7 @@ src/
 1. **Clone the repository:**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/AmanGupta1703/Admin-Panel-UI-Kit
    cd admin-panel
    ```
 
@@ -156,7 +156,7 @@ src/
 ## Customization
 
 - **Data:** All navigation items, chat messages, and user data are defined in [`src/utils/index.ts`](src/utils/index.ts).
-- **Styling:** Tailwind CSS is used throughout. You can customize styles in [`src/index.css`](src/index.css).
+- **Styling:** Tailwind CSS is used throughout. You can customise styles in [`src/index.css`](src/index.css).
 - **Icons:** Emoji and SVG icons are used for simplicity and can be replaced as needed.
 
 ---
